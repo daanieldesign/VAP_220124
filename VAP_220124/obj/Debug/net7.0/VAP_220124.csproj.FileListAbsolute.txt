@@ -1,0 +1,15 @@
+/Users/student/Projects/VAP_220124/VAP_220124/obj/Debug/net7.0/VAP_220124.csproj.AssemblyReference.cache
+/Users/student/Projects/VAP_220124/VAP_220124/obj/Debug/net7.0/VAP_220124.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Projects/VAP_220124/VAP_220124/obj/Debug/net7.0/VAP_220124.AssemblyInfoInputs.cache
+/Users/student/Projects/VAP_220124/VAP_220124/obj/Debug/net7.0/VAP_220124.AssemblyInfo.cs
+/Users/student/Projects/VAP_220124/VAP_220124/obj/Debug/net7.0/VAP_220124.csproj.CoreCompileInputs.cache
+/Users/student/Projects/VAP_220124/VAP_220124/bin/Debug/net7.0/VAP_220124
+/Users/student/Projects/VAP_220124/VAP_220124/bin/Debug/net7.0/VAP_220124.deps.json
+/Users/student/Projects/VAP_220124/VAP_220124/bin/Debug/net7.0/VAP_220124.runtimeconfig.json
+/Users/student/Projects/VAP_220124/VAP_220124/bin/Debug/net7.0/VAP_220124.dll
+/Users/student/Projects/VAP_220124/VAP_220124/bin/Debug/net7.0/VAP_220124.pdb
+/Users/student/Projects/VAP_220124/VAP_220124/obj/Debug/net7.0/VAP_220124.dll
+/Users/student/Projects/VAP_220124/VAP_220124/obj/Debug/net7.0/refint/VAP_220124.dll
+/Users/student/Projects/VAP_220124/VAP_220124/obj/Debug/net7.0/VAP_220124.pdb
+/Users/student/Projects/VAP_220124/VAP_220124/obj/Debug/net7.0/VAP_220124.genruntimeconfig.cache
+/Users/student/Projects/VAP_220124/VAP_220124/obj/Debug/net7.0/ref/VAP_220124.dll

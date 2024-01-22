@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VAP_220124/1.0.0": {
+        "runtime": {
+          "VAP_220124.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VAP_220124/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
